@@ -7,6 +7,7 @@ public class KTest {
   public void f() {
 	  System.out.println("class 1");
 	  System.out.println("Branch");
+	  System.out.println("branch 2 added");
 	  
   }
 }
